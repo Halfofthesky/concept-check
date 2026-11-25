@@ -119,6 +119,7 @@ The skill merges Gerring's 1999 and 2012 lists and marks the source of each crit
 
 - [BEAM](https://github.com/Halfofthesky/beam): maps what each source does in your text.
 - [Evidence Tests](https://github.com/Halfofthesky/evidence-tests): weighs the evidence for causal claims against rival explanations.
+- [Stasis](https://github.com/Halfofthesky/stasis): finds where a disagreement sits and whether the text meets it there.
 - [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): reconstructs arguments, spots fallacies, solves formal logic.
 - [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three reviewers and an editorial synthesis for humanities manuscripts.
 
