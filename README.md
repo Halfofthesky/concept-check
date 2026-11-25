@@ -6,6 +6,8 @@ A Claude skill for researchers and writers in the humanities and social sciences
 
 Built on John Gerring's criteria for good concepts and Giovanni Sartori's test for conceptual stretching.
 
+<img width="750" alt="Concept Check" src="assets/concept-check.jpg" />
+
 [Download `concept-check.zip`](https://github.com/Halfofthesky/concept-check/releases/latest/download/concept-check.zip) · [View `SKILL.md`](concept-check/SKILL.md)
 
 ---
