@@ -113,7 +113,11 @@ From the [latest release](https://github.com/Halfofthesky/concept-check/releases
 
 The skill merges Gerring's 1999 and 2012 lists and marks the source of each criterion. Adapting it for humanities concepts and for concepts that work in two languages is my own extension. The skill is not affiliated with the authors.
 
-**See also:** [BEAM](https://github.com/Halfofthesky/beam), a skill that maps what each source does in your text.
+## See also
+
+- [BEAM](https://github.com/Halfofthesky/beam): a skill that maps what each source does in your text.
+- [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): three skills for analysing arguments: reconstructing them, spotting fallacies, and solving formal logic problems.
+- [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three independent reviewers and an editorial synthesis for humanities manuscripts.
 
 ## License
 
